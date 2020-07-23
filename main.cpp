@@ -1,7 +1,7 @@
 
 #include <iostream>
 using namespace std;
-
+//Hacer un programa en C++ que llene un array con 50 números pares.
 void imprimir(int a[], int n);
 
 int main() {
